@@ -5,7 +5,7 @@ links -> https://thefuturejholler.github.io/CSS_JS_Jquery/div_with_clear_both_pr
 
 links -> https://thefuturejholler.github.io/CSS_JS_Jquery/html_attributes.html
 
-links -> https://thefuturejholler.github.io/CSS_JS_Jquery/understanding _span.html
+links -> https://thefuturejholler.github.io/CSS_JS_Jquery/understanding_span.html
 
 links -> https://thefuturejholler.github.io/CSS_JS_Jquery/understanding_div.html
 
